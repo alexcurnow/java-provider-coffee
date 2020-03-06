@@ -1,0 +1,14 @@
+.mainContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.listStyle {
+  display: flex;
+  flex-flow: column wrap;
+}
+
+/* Footer */
+#java__footer {
+  display: flex;
+}
