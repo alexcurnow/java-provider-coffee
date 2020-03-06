@@ -42,5 +42,5 @@ const equipment = [
 
 // Returns a copy of the array of equipment data
 export const useEquipment = () => {
-    return equipment.slice()
+    return equipment.slice()    
 }
